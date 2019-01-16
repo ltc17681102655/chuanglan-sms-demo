@@ -37,7 +37,7 @@
     </dependencies>
 
     <build>
-        <finalName>chuanglan-sms</finalName>
+        <!--<finalName>chuanglan-sms</finalName>-->
 
         <plugins>
             <plugin>
