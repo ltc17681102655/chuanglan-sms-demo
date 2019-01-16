@@ -37,6 +37,8 @@
     </dependencies>
 
     <build>
+        <finalName>chuanglan-sms</finalName>
+
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
